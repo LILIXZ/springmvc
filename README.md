@@ -74,7 +74,3 @@ Spring MVC Study
 
   ![](pic/deleteBlog.jpg)
 
-
-测试
-
-
